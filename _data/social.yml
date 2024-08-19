@@ -3,13 +3,6 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
-scholar:
-  name: Scholar
-  icon: icon-scholar-bc
-  prepend: 'https://scholar.google.com/'
-cv:
-  name: CV
-  icon: icon-cvb-b
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -213,3 +206,6 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+scholar:
+  name: Google Scholar
+  icon: 
