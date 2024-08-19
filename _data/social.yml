@@ -207,5 +207,9 @@ download:
   name: Download
   icon: icon-box-add
 scholar:
-  name: Google Scholar
-  icon: 
+  name: Scholar
+  icon: icon-scholar-bc
+  prepend: "https://scholar.google.com/"
+cv:
+  name: CV
+  icon: icon-cvb-b

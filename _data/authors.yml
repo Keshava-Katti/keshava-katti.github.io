@@ -27,9 +27,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    scholar:         https://scholar.google.com/citations?user=Cy_VZ3QAAAAJ&hl=en
+    scholar:         citations?user=Cy_VZ3QAAAAJ&hl=en
     #github:          <username>
-    email:           mailto:kattikes@seas.upenn.edu
+    email:           kattikes@seas.upenn.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     #google:          <number>
