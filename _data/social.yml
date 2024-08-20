@@ -7,10 +7,11 @@ amazon:
   name: Amazon
   icon: icon-amazon
 google:
-  name: Google
+  name: Scholar
   icon: icon-google
+  prepend: "https://scholar.google.com/"
 google-plus:
-  name: Google+
+  name: Google+mail
   icon: icon-google-plus
   prepend: 'https://plus.google.com/'
 google-drive:
@@ -211,5 +212,5 @@ scholar:
   icon: icon-scholar-bc
   prepend: "https://scholar.google.com/"
 cv:
-  name: CV
+  name: CV 
   icon: icon-cvb-b
